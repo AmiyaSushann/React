@@ -1,0 +1,9 @@
+.flex-container{
+    display:flex;
+    justify-content: space-between;
+}
+
+.searchbox{
+    width: 250px;
+    margin-left: 850px;
+}
